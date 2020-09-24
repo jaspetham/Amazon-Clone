@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 50px;
 }
 
 .login_logo {
@@ -21,6 +22,7 @@
   border-radius: 5px;
   border: 1px solid lightgray;
   padding: 20px;
+  margin-top: 30px;
 }
 
 .login_container > h1 {
